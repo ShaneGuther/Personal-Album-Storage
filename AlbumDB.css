@@ -1,0 +1,27 @@
+#container{
+	background-color: #ccccff;
+	text-align: center;	
+	display: flex;
+	flex-direction: column;
+}
+#forms{
+	display: inline-block;	
+}
+#form1{
+	display: inline-block;	
+}
+/*#form2{
+	display: inline-block;	
+}*/
+input{
+	margin: 1%;
+}
+tr,td{
+	border: 1% solid black;
+
+}
+.genChk{
+	margin: 10px;
+}
+
+

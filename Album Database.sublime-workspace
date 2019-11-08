@@ -1,0 +1,971 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"Al",
+				"Alternative"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"exec",
+				"execOk"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"id",
+				"sport_id"
+			],
+			[
+				"ref",
+				"Referee"
+			],
+			[
+				"refere",
+				"referee_count"
+			],
+			[
+				"SES",
+				"_SESSION"
+			],
+			[
+				"or",
+				"origin"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"db",
+				"dbConn"
+			],
+			[
+				"slot",
+				"slotOne"
+			],
+			[
+				"slo",
+				"slotTwo"
+			],
+			[
+				"sl",
+				"slotOne"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"grid",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"grid-row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column-end\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"grid-colum",
+				"grid-column-end\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pgie",
+				"pigeon"
+			],
+			[
+				"pi",
+				"pigeon1"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"onm",
+				"onmousemove\tAttr"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"sun",
+				"sunOuter"
+			],
+			[
+				"fill",
+				"fillText"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"anima",
+				"animations"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"se",
+				"setInterval"
+			],
+			[
+				"onmou",
+				"onmouseenter\tAttr"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"SpeehSyn",
+				"speechSynthesis"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"textA",
+				"text-align\tproperty"
+			],
+			[
+				"width",
+				"max-width\tproperty"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"correct",
+				"correctAnswers"
+			],
+			[
+				"correc",
+				"correctAnswers"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"text-align",
+				"text-align-last\tproperty"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"answe",
+				"answer8"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"inc",
+				"incorrect1"
+			],
+			[
+				"cor",
+				"correctAnswers"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"answer",
+				"answer1"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"onmo",
+				"onmouseleave\tAttr"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"cell",
+				"cell02"
+			],
+			[
+				"cel",
+				"cell01"
+			],
+			[
+				"butto",
+				"buttonAlert"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"grid-column",
+				"grid-column-start\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column-start\tproperty"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"grid-t",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"fel",
+				"flex-direction\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AlbumDB.css",
+			"settings":
+			{
+				"buffer_size": 299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<html>\n\t<head>\n\t\t<!--\n\t\tThis page will filter selection of music based on the parameters set by the user\n\t\t-->\n\t\t<meta charset=\"UTF-8\">\n\t\t<title>Album Database</title>\n\t\t<link rel=\"stylesheet\" href=\"AlbumDB.css\">\n\t</head>\n\t<body id=\"container\">\n\t\t<form method=\"POST\" action=\"addition.php\" id=\"forms\">\n\t\t\t<h1>Database</h1>\n\t\t\t<br>\n\t\t\t<input type=\"submit\" name=\"submit\" value=\"Add New Value\" id=\"newBtn\">\n\t\t</form>\n\n\t\t<form method=\"POST\" action=\"#\" id=\"form1\">\n\t\t\t<input type=\"text\" name=\"tbd\" id=\"deleteTf\">\n\t\t\t<input type=\"submit\" name=\"Delete\" value=\"Delete Value\">\n\t\t</form>\n\n\t\t<form method=\"POST\" action=\"#\" id=\"form2\">\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"HipHop\" class=\"genChk\"><label>Hip-Hop</label>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"Rock\" lass=\"genChk\"><label>Rock</label>\n\t\t\t<br>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"SingerSongwriter\" lass=\"genChk\"><label>Singer/Songwriter</label>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"Alternative\" lass=\"genChk\"><label>Alternative</label>\n\t\t\t<br>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"Jazz\" lass=\"genChk\"><label>Jazz</label>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"Pop\" lass=\"genChk\"><label>Pop</label>\n\t\t\t<br>\n\t\t\t<input type=\"checkbox\" name=\"genres[]\" value=\"Country\" lass=\"genChk\"><label>Country</label>\n\t\t\t<br>\n\t\t\t<input type=\"submit\" name=\"submit\" value=\"Update Table\">\n\t\t<?php\n\t\t//Connect to the database using info in connect.php page\n\t\trequire(\"connect.php\");\n\n\t\ttry{\n\t\t$dbConn = new PDO(\"mysql:host=$hostname;dbname=guthers_albums\", $user, $passwd);\n\t\t//echo 'Connection Successful';\n\t\t}catch(PDOException $e){\n\t\techo 'Connection error: ' . $e->getMessage();\n\t\t}\n\n\t\t\t// $hh = $_POST['Hiphop'];\n\t\t\t// $rc = $_POST['Rock'];\n\t\t\t// $ss = $_POST['SingerSongwriter'];\n\t\t\t// $alt = $_POST['Alternative'];\n\t\t\t// $jz = $_POST['Jazz'];\n\t\t\t// $pop = $_POST['Pop'];\n\t\t\t// $ct = $_POST['Country'];\n\n\t\t\t$value = $_POST['value'];\n\t\t\t$album = $_POST['album'];\t\n\t\t\t$artist = $_POST['artist'];\n\t\t\t$genre = $_POST['genres'];\n\t\t\t$tbd = $_POST['tbd'];\n\t\t\t\n\t\t\t\n\t\t\t$sqlGenres = \" (\";\n\t\t\tforeach($genre as $index => $genres){\n\t\t\t\t\t$sqlGenres .= \"'\".$genres.\"'\".\",\";\n\t\t\t\t// }elseif($sqlGenres != \"\"){\n\t\t\t\t// }\n\t\t\t\t}\n\t\t\t\n\t\t\tif($sqlGenres != \" (\"){\n\t\t\t$sqlGenres = rtrim($sqlGenres, \",\");\n\t\t\t$sqlGenres .= \")\";\n\t\t}\n\t\t//Will delete data from the table according to entry into the text field, if nothing is entered query will not execute\n\t\tif(isset($tbd)){\n\t\t$command = \"DELETE FROM album WHERE Value='$tbd'\";\n\t\t\t$deletion = $dbConn->prepare($command);\n\t\t\t$execOk = $deletion->execute();\n\t\t}\n\t\t//Will add a new entry to the database when executed from addition.php -- only runs if value is set\n\t\tif(isset($value)){\n\t\t\ttry{\n\t\t\t$dbConn = new PDO(\"mysql:host=$hostname;dbname=guthers_albums\", $user, $passwd);\n\t\t\techo 'Connection Successful';\n\t\t\t}catch(PDOException $e){\n\t\t\t\techo 'Connection unsuccessful' . $e->getMessage();\n\t\t\t}\n\t\t\t$cmd = \"INSERT INTO album(Value, Album, Artist, Genre) VALUES ('$value','$album','$artist','$genre')\";\n\t\t\t$dbConn->exec($cmd);\n\n\t\t}\n\n\t\tif($sqlGenres != \" (\"){\n\t\t\t$comm = \"SELECT Value, Album, Artist, Genre FROM album WHERE Genre IN\" . $sqlGenres;\n\t\t\t$stmnt = $dbConn->query($comm);\n\t\t\t$execOk = $stmnt->execute();\n\t\t\t//if($execOk){\n\t\t\t\techo '<table>';\n\t\t\t\techo '<tr><td>Value</td><td>Album</td><td>Artist</td><td>Genre</td></tr>';\n\t\t\twhile($row = $stmnt->fetch()){\n\t\t\t\techo '<tr><td>' . $row[Value] . '</td><td>' . $row[Album] . '</td><td>' . $row[Artist] . '</td><td>' . $row[Genre] . '</td></tr>';\n\t\t\t\t}\n\t\t\t\techo '</table>';\n\t\t\t//}\n\n\t\t}else{\n\t\t$command = \"SELECT Value, Album, Artist, Genre FROM album ORDER BY Value\";\n\t\t$statement = $dbConn->query($command);\n\t\t$execOk = $statement->execute();\n\t\tif($execOk){\n\t\t\techo '<table>';\n\t\t\techo '<tr><td>Value</td><td>Album</td><td>Artist</td><td>Genre</td></tr>';\n\t\twhile($row = $statement->fetch()){\n\t\t\techo '<tr><td>' . $row[Value] . '</td><td>' . $row[Album] . '</td><td>' . $row[Artist] . '</td><td>' . $row[Genre] . '</td></tr>';\n\t\t\t}\n\t\t\techo '</table>';\n\t\t}\n\t\t}\n\t\t\n\t\t//$command = \"SELECT Value, Album, Artist, Genre FROM album ORDER BY Value\";\n\t\t//$statement = $dbConn->query($command);\n\t\t//$execOk = $statement->execute();\n\n\t\t\n\t\t// if($execOk){\n\t\t// \techo '<table>';\n\t\t// \techo '<tr><td>Value</td><td>Album</td><td>Artist</td><td>Genre</td></tr>';\n\t\t// \twhile($row = $statement->fetch()){\n\t\t// \t\techo '<tr><td>' . $row[Value] . '</td><td>' . $row[Album] . '</td><td>' . $row[Artist] . '</td><td>' . $row[Genre] . '</td></tr>';\n\t\t// \t}\n\t\t// \techo '</table>';\n\t\t// }\n\t\t\t\t?>\n\t\t</form>\n\t</body>\n</html>\n",
+			"file": "index.php",
+			"file_size": 4725,
+			"file_write_time": 132137496873163752,
+			"settings":
+			{
+				"buffer_size": 4590,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE HTML>"
+			}
+		},
+		{
+			"file": "/C/Users/shane/Desktop/Website/index.html",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/shane/Desktop/Website/resume.js",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\">\n\t\t<title>Top Albums of 2019</title>\n\t\t<link rel=\"stylesheet\" href=\"AlbumDB.css\">\n\t</head>\n\t<body id=\"container\">\n\t\t<h1>Albums of the year</h1>\n\t\t<form method=\"POST\" action=\"index.php\" id=\"forms\">\n\t\t\t<input type=\"number\" name=\"value\" required>\n\t\t\t<br>\n\t\t\t<input type=\"text\" name=\"album\" required>\n\t\t\t<br>\n\t\t\t<input type=\"text\" name=\"artist\" required>\n\t\t\t<br>\n\t\t\t<select name=\"genres\">\n\t\t\t\t<option value=\"HipHop\">Hip-Hop/Rap</option>\n\t\t\t\t<option value=\"Rock\">Rock</option>\n\t\t\t\t<option value=\"SingerSongwriter\">Singer/Songwriter</option>\n\t\t\t\t<option value=\"Alternative\" placeholder>Alternative</option>\n\t\t\t\t<option value=\"Jazz\">Jazz</option>\n\t\t\t\t<option value=\"Pop\">Pop</option>\n\t\t\t\t<option value=\"Country\">Country</option>\n\t\t\t</select>\n\t\t\t<input type=\"submit\" name=\"submit\" value=\"Add New Value\" id=\"newBtn\">\n\t\t\t</form>\n\t\t\t<?php\n\t\t\t// require(\"connect.php\");\n\t\t\t// $dbConn = new PDO(\"mysql:host=$hostname;dbname=guthers_albums\", $user, $passwd);\n\t\t\t// $command = \"DELETE FROM album WHERE Value=3\";\n\t\t\t// $deletion = $dbConn->prepare($command);\n\t\t\t// $execOk = $deletion->execute();\n\t\t\t?>\n\t</body>\n</html>",
+			"file": "addition.php",
+			"file_size": 1179,
+			"file_write_time": 132132123954314618,
+			"settings":
+			{
+				"buffer_size": 1158,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DBaccess.php",
+			"settings":
+			{
+				"buffer_size": 1350,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n//Database connection information\n$user = \"guthers_guther\";\n$passwd = \"GLIH^E#R4Dmt\";\n$hostname = \"localhost\";\n?>",
+			"file": "connect.php",
+			"file_size": 89,
+			"file_write_time": 132028589881380098,
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Add Repository"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"run",
+			"/run",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shane/Desktop/testing.py",
+		"/C/emu8086/documentation/index.html",
+		"/C/Users/shane/Desktop/Album Website/delete.php",
+		"/C/Users/shane/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/shane/AppData/Local/Temp/Temp1_HMLogin.zip/HMLogin/signup.php",
+		"/C/Users/shane/Desktop/js/speechTest.html",
+		"/C/Users/shane/Desktop/js/index.html",
+		"/C/Users/shane/Desktop/js/test.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A6_sports/delete.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A6_sports/insert.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A7/guthers_A7.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A6_sports/view.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A6_sports/index.php",
+		"/C/Users/shane/Desktop/HMLogin.zip",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A6_sports/update2.php",
+		"/C/Users/shane/Desktop/Web Programming/hangman/hangman.php",
+		"/C/Users/shane/Desktop/Web Programming/hangman/signup.html",
+		"/C/Users/shane/Desktop/Web Programming/hangman/login.html",
+		"/C/Users/shane/Desktop/Web Programming/hangman/game.html",
+		"/C/Users/shane/Desktop/Album Website/addition.php",
+		"/C/Users/shane/Desktop/Movie Website/connect.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A5/guthers_A5inclass.css",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A5/index.html",
+		"/C/Users/shane/Desktop/Website/index.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A1/guthers_A1.js",
+		"/C/Users/shane/Desktop/Website/resume.js",
+		"/C/Users/shane/Desktop/Website/resume1.css",
+		"/C/Users/shane/Desktop/Hearthstone/Resume.css",
+		"/C/Users/shane/Desktop/Hearthstone/ResumeHTML.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A3/guthers_A3.js",
+		"/C/Users/shane/Desktop/guthers_A7/guthers_A7.php",
+		"/C/Users/shane/Desktop/HMLogin/hs.php",
+		"/C/Users/shane/Desktop/highscoreCSS.css",
+		"/C/Users/shane/Desktop/guthers_A5/guthers_A5inclass.html",
+		"/C/Users/shane/Desktop/HMLogin/highscorepage/theHS.php",
+		"/C/Users/shane/Desktop/HMLogin/theHS.php",
+		"/C/Users/shane/Desktop/guthers_A5inclass.html",
+		"/C/Users/shane/AppData/Local/Temp/Temp1_HangMan.zip/HangMan/js/js.js",
+		"/C/Users/shane/Desktop/guthers_A6_sports/update.php",
+		"/C/Users/shane/AppData/Local/Temp/Temp1_highscorepage.zip/highscorepage/theHS.php",
+		"/C/Users/shane/Desktop/HMLogin/displayHS.php",
+		"/C/Users/shane/Desktop/guthers_A5/guthers_A5inclass.php",
+		"/C/Users/shane/Desktop/HMLogin/login.php",
+		"/C/Users/shane/Desktop/guthers_A5/guthers_A5inclass.css",
+		"/C/Users/shane/Desktop/guthers_A6_sports/index.php",
+		"/C/Users/shane/Desktop/guthers_A6_sports/insert.php",
+		"/C/Users/shane/AppData/Local/Temp/hs.php",
+		"/C/Users/shane/Desktop/HMLogin/signup.php",
+		"/C/Users/shane/Desktop/hangman/hangman.php",
+		"/C/Users/shane/Desktop/guthers_A7/guthers_A7.css",
+		"/C/Users/shane/Desktop/index.php",
+		"/C/Users/shane/Desktop/HMLogin/login.html",
+		"/C/Users/shane/Desktop/guthers_A6_sports/view.php",
+		"/C/Users/shane/Desktop/guthers_A6_sports/update2.php",
+		"/C/Users/shane/AppData/Local/Temp/Temp1_guthers_A7.zip/guthers_A7/index.php",
+		"/C/Users/shane/Desktop/guthers_A7/connect.php",
+		"/C/Users/shane/Desktop/guthers_A5inclass.php",
+		"/C/Users/shane/Documents/NetBeansProjects/GuthersA4/dist/GuthersA4.html",
+		"/C/Users/shane/Desktop/guthers_A6_Form/guthers_A6.css",
+		"/C/Users/shane/Desktop/guthers_A6_Form/shipping.php",
+		"/C/Users/shane/Desktop/guthers_A6_Form/index.php",
+		"/C/Users/shane/Desktop/guthers_A6_Form/confirmation.php",
+		"/C/Users/shane/Desktop/guthers_A6_Form/complete.php",
+		"/C/Users/shane/Desktop/guthers_A6_Form/address.php",
+		"/C/Users/shane/Desktop/guthers_A6_Form/index.html",
+		"/C/Users/shane/Desktop/guthers_A6_sports/delete.php",
+		"/C/Users/shane/Desktop/guthers_A6_sports/connect.php",
+		"/C/Users/shane/Desktop/guthers_A6_sports/dbmodify.css",
+		"/C/Users/shane/Desktop/guthers_A6_sports/update2hp",
+		"/C/Users/shane/Desktop/10.2 DB Connection/10.2 DB Connection/index.php",
+		"/C/Users/shane/Desktop/test/index.php",
+		"/C/Users/shane/Downloads/10.3 Session Management Examples/sessionExamples/step1.html",
+		"/C/Users/shane/Desktop/10.2 DB Connection/10.2 DB Connection/connect.php",
+		"/C/Users/shane/Downloads/10.3 Session Management Examples/sessionExamples/step4.php",
+		"/C/Users/shane/Downloads/10.3 Session Management Examples/sessionExamples/step3.php",
+		"/C/Users/shane/Downloads/10.3 Session Management Examples/sessionExamples/step2.php",
+		"/C/Users/shane/AppData/Local/Google/Chrome/User Data/Default/Bookmarks",
+		"/C/Users/shane/Desktop/guthers_A6/guthers_A6.php",
+		"/C/Users/shane/Desktop/guthers_A5inclass.css",
+		"/C/Users/shane/Desktop/connect.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A4inclass/A4inclass.php",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A2/guthers_A2.js",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A4inclass/index.html",
+		"/C/Users/shane/Desktop/Semester 1/Web Development/InClass5.html",
+		"/C/Users/shane/Desktop/chrome extension/popup.html",
+		"/C/Users/shane/Desktop/Semester 1/Web Development/phpProcess.php",
+		"/C/Users/shane/Desktop/chrome extension/background.js",
+		"/C/Users/shane/Desktop/guthers_A4inclass/A4inclass.css",
+		"/C/Users/shane/Desktop/guthers_A4inclass/A4inclass.php",
+		"/C/Users/shane/Desktop/guthers_A4inclass/index.html",
+		"/C/Users/shane/Desktop/checkInts.php",
+		"/C/Users/shane/AppData/Local/Temp/index.php",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/servers/loremIpsumServer.php",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/servers/timeServer.php",
+		"/C/Users/shane/Desktop/checkInts.html",
+		"/C/Users/shane/Desktop/Hearthstone/resume1.css",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/servers/index.php",
+		"/C/Users/shane/Desktop/Hearthstone/resume.js",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/timerExample.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/canvasTestBed.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/sampleCanvasAnimation.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/eventHandlerTest.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A2/guthers_A2.html",
+		"/C/Users/shane/Desktop/webProPhase1.html",
+		"/C/Users/shane/Desktop/webProPhase1.css",
+		"/C/Users/shane/Desktop/Web Programming/tictactoe.html",
+		"/C/Users/shane/Desktop/Web Programming/Javascript review.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A3/guthers_A3.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/catchTheRabbit.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A3/guthers_A3.css",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A2/guthers_A2.css",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/canvasTestBed3.html",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A1/guthers_A1.css",
+		"/C/Users/shane/Desktop/Web Programming/guthers_A1/guthers_A1.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/sampleAnimation.html",
+		"/C/Users/shane/Desktop/speechTest.html",
+		"/C/Users/shane/Desktop/Textbook example pack/Textbook example pack/js/ajaxTime.js",
+		"/C/Users/shane/Desktop/Week5Notes.html",
+		"/C/Users/shane/Desktop/manifest/auto.js",
+		"/C/Users/shane/Desktop/manifest/trigger.js",
+		"/C/Users/shane/Desktop/manifest/options.html",
+		"/C/Users/shane/Desktop/test.html",
+		"/C/Users/shane/Desktop/popup.html",
+		"/C/Users/shane/Desktop/manifest/manifest.json",
+		"/C/Users/shane/AppData/Local/Temp/Temp2_manifest (3).zip/manifest/manifest.json",
+		"/C/Users/shane/Desktop/manifest/background.js",
+		"/C/Users/shane/AppData/Local/Temp/Temp1_manifest (3).zip/manifest/manifest.json",
+		"/C/Users/shane/Desktop/manifest.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AlbumDB.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE HTML>",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 367.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/shane/Desktop/Website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/shane/Desktop/Website/resume.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "addition.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "DBaccess.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "connect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 109.0
+	},
+	"output.git-commit":
+	{
+		"height": 109.0
+	},
+	"output.git-init":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "",
+	"project": "Album Database.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
