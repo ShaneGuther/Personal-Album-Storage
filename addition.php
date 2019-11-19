@@ -2,11 +2,10 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Top Albums of 2019</title>
+		<title>Musical Storage</title>
 		<link rel="stylesheet" href="AlbumDB.css">
 	</head>
 	<body id="container">
-		<h1>Albums of the year</h1>
 		<form method="POST" action="index.php" id="forms">
 			<input type="number" name="value" required>
 			<br>
