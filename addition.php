@@ -26,11 +26,6 @@
 			<input type="submit" name="submit" value="Add New Value" id="newBtn">
 			</form>
 			<?php
-			require("connect.php");
-			$dbConn = new PDO("mysql:host=$hostname;dbname=guthers_albums", $user, $passwd);
-			$command = "DELETE FROM album WHERE Value=3";
-			$deletion = $dbConn->prepare($command);
-			$execOk = $deletion->execute();
 			?>
 	</body>
 </html>
