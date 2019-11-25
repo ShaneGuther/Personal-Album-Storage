@@ -34,21 +34,7 @@
 			<br>
 
 			<form method="POST" action="#" id="form2">
-			<!-- 	<ul>
-					<li><input type="checkbox" name="genres[]" value="HipHop" class="genChk1"><label>Hip-Hop</label></li>
-					<li><input type="checkbox" name="genres[]" value="Rock" class="genChk2"><label>Rock</label></li>
-				<br>
-					<li><input type="checkbox" name="genres[]" value="Singer/Songwriter" class="genChk1"><label>Singer/Songwriter</label></li>
-					<li><input type="checkbox" name="genres[]" value="Alternative" class="genChk2">	<label>Alternative</label></li>
-				<br>
-					<li><input type="checkbox" name="genres[]" value="Jazz" class="genChk1"><label>Jazz</label></li>
-					<li><input type="checkbox" name="genres[]" value="Pop" class="genChk2"><label>Pop</label></li>
-				<br>
-					<li><input type="checkbox" name="genres[]" value="Country" class="genChk2"><label>Country</label></li>
-				</ul> -->
-
-			
-
+	
 		<div class="form-check form-check-inline">
   			<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="genres[]"  value="HipHop">
   			<label class="form-check-label" for="inlineCheckbox1">Hip-Hop</label>
@@ -87,7 +73,6 @@
 
 		try{
 		$dbConn = new PDO("mysql:host=$hostname;dbname=guthers_albums", $user, $passwd);
-		//echo 'Connection Successful';
 		}catch(PDOException $e){
 		echo 'Connection error: ' . $e->getMessage();
 		}
@@ -120,9 +105,8 @@
 			$command = "DELETE FROM album WHERE Value='$tbd'";
 			$deletion = $dbConn->prepare($command);
 			$deletion->execute();
-		// $command = "SELECT Value, Album, Artist, Genre FROM album ORDER BY Value";
-		// $statement = $dbConn->query($command);
-		// $execOk = $statement->execute();
+			/*Set auto increment to the current highest value, so the next entry will be +1
+			Still working on updating table as it goes	*/
 			$altercmd = "ALTER TABLE album AUTO_INCREMENT = 0";
 			$dbConn->exec($altercmd);
 			
