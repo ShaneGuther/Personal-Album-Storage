@@ -1,0 +1,30 @@
+.container{
+	background-color: #ccffee;
+	text-align: center;	
+}
+#dltForm{	
+	display: none;
+	z-index: 1;
+}
+#addForm{
+}
+
+table{
+	font-size: 16pt;
+	margin-right: auto;
+	margin-left: auto;
+}
+button{
+	margin: .5em;
+}
+#dltBtn{
+	display: inline-block;
+}
+
+/*
+		$altercmd = "ALTER TABLE album AUTO_INCREMENT = (SELECT Value FROM album ORDER BY DESC LIMIT 1)";
+			$alter = $dbConn->query($altercmd);
+			$execOk = $alter->exec();
+			*/
+
+
